@@ -54,7 +54,7 @@ RFM analizi sonucunda ortaya çıkan segmentler ve bu segmentlere özel önerile
 
 | Segment Adı | RFM Özellikleri | Pazarlama Stratejisi |
 | :--- | :--- | :--- |
-| **Şampiyonlar** | **R: Düşük, F: Yüksek, M: Çok Yüksek** | **Ödüllendirme:** Yeni ürün lansmanlarında öncelik tanıyın ve VIP sadakat programları sunarak elde tutun. |
-| **Potansiyel Sadıklar** | **R: Orta, F: Orta, M: Yüksek** | **Teşvik Etme:** Kuponlar veya özel ürün önerileri ile Frekanslarını artırarak Şampiyonlar grubuna geçişlerini sağlayın. |
-| **Yeni Müşteriler** | **R: Düşük, F: Düşük, M: Düşük/Orta** | **Aktivasyon:** İkinci alışverişi teşvik eden hoş geldin indirimleri ile sadakati artırmaya odaklanın. |
-| **Risk Altındakiler** | **R: Çok Yüksek, F: Çok Düşük, M: Düşük** | **Geri Kazanım:** Yüksek indirimler içeren "Sizi Özledik" e-postaları veya kampanyaları ile yeniden aktive etmeyi deneyin. |
+| **Şampiyonlar** | **R: Düşük, F: Yüksek, M: Çok Yüksek** | **Ödüllendirme:** Yeni ürün lansmanlarında öncelik tanıyın ve VIP sadakat programları sunarak elde tutulabilir. |
+| **Potansiyel Sadıklar** | **R: Orta, F: Orta, M: Yüksek** | **Teşvik Etme:** Kuponlar veya özel ürün önerileri ile Frekanslarını artırarak Şampiyonlar grubuna geçişleri sağlanabilir. |
+| **Yeni Müşteriler** | **R: Düşük, F: Düşük, M: Düşük/Orta** | **Aktivasyon:** İkinci alışverişi teşvik eden hoş geldin indirimleri ile sadakati artırmaya odaklanılabilir. |
+| **Risk Altındakiler** | **R: Çok Yüksek, F: Çok Düşük, M: Düşük** | **Geri Kazanım:** Yüksek indirimler içeren "Sizi Özledik" e-postaları veya kampanyaları ile yeniden aktive edilebilir. |
